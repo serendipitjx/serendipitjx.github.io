@@ -1,21 +1,23 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+Research Intern
+November 2025 – Present | IWIN-FINS Laboratory, Shanghai Jiao Tong University
+Conducted research on motion planning and control for steerable-wheeled mobile robots. Participated in algorithm design, simulation verification, and academic paper writing for robotics motion planning systems.
+Key Contributions:
+Researched and designed fast motion planning algorithms to exploit agile mobility of steerable-wheeled mobile robots.
+Implemented algorithm simulation and validation for mobile robot trajectory planning and control.
+Co-authored a research paper accepted by RSS 2026, focusing on fast motion planning for agile mobile robots.
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Undergraduate Innovation Program Leader
+April 2026 – Present | Shanghai Jiao Tong University
+Led an undergraduate innovation project on lightweight predictive control and trajectory tracking for unicycle robots with non-holonomic and non-convex constraints. Focused on MPC, convexification, and embedded real-time control.
+Key Contributions:
+Led project design and implementation of lightweight MPC for unicycle robot trajectory tracking.
+Researched DC decomposition and convexification methods to handle non-convex constraints in real-time control.
+Developed embedded real-time control framework for mobile robot trajectory tracking.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+Robot Competition Developer
+December 2025 | Shuzishanhai Club, Shanghai Jiao Tong University
+Developed task logic and system for humanoid robot express delivery task based on JAKA Lumi Wheeled Humanoid Platform. Participated in team modeling and robot competition demonstration.
+Key Contributions:
+Designed task logic and workflow for humanoid robot express delivery scenario.
+Completed system debugging and integration for wheeled humanoid robot platform.
+Participated in competition modeling and on-site demonstration, won second prize in humanoid robot competition.
