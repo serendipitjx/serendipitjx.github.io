@@ -16,5 +16,4 @@ Led a project on lightweight predictive control and trajectory tracking for unic
 **Dec 2025** | Shuzishanhai Club, Shanghai Jiao Tong University  
 Developed task logic and system for humanoid robot express delivery based on JAKA Lumi platform.
 - Designed task logic and workflow for express delivery scenarios.
-- Completed system debugging and integration for wheeled humanoid robot.
 - Won the second prize in the Humanoid Robot Competition.
