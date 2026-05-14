@@ -12,7 +12,7 @@ Led a project on lightweight predictive control and trajectory tracking for unic
 - Researched DC decomposition and convexification methods to handle non-convex constraints.
 - Developed an embedded real-time control framework for trajectory tracking.
 
-### Robot Competition Developer
+### Robot Competition 
 **Dec 2025** | Shuzishanhai Club, Shanghai Jiao Tong University  
 Developed task logic and system for humanoid robot express delivery based on JAKA Lumi platform.
 - Designed task logic and workflow for express delivery scenarios.
